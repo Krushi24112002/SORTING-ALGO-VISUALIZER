@@ -45,4 +45,6 @@ Technologies used in the project:
 
 <img  width="800" height="400" alt="SortingAlgoVisualizer" src="https://github.com/Krushi24112002/SORTING-ALGO-VISUALIZER/assets/84612397/2db5a0c4-6318-4384-a446-c2048c66ff64">
 
+<h2> 📽 GIF Demo </h2>
 
+![Sorting Algo Visualizer](https://github.com/Krushi24112002/SORTING-ALGO-VISUALIZER/assets/84612397/fed6843e-a95d-40ef-b8e6-2865c4f8408a)
