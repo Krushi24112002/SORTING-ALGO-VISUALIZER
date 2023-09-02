@@ -1,6 +1,6 @@
 <p align="center">
-  
-![Sorting Algo Visualizer](https://user-images.githubusercontent.com/40190772/83947174-c3254280-a815-11ea-960c-65d1e2576bce.png)
+
+![Sorting Algo Vsiualizer](https://github.com/Krushi24112002/SORTING-ALGO-VISUALIZER/assets/84612397/2cf392b2-3bcd-437d-9ceb-0c11a6175311)
 
 </p>
 
