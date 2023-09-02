@@ -10,3 +10,19 @@
 <h2>🚀 Demo</h2>
 
 <a href="https://krushi24112002.github.io/SORTING-ALGO-VISUALIZER/"> Sorting Algo Visualizer </a>
+
+<h2> 📑 Learning </h2>
+
+**_Sorting Algo Visualizer is a web app for visualizing a bunch of different sorting algorithms Like_**
+
+- **_Selection Sort._**
+- **_Bubble Sort._**
+- **_Insertion Sort._**
+- **_Merge Sort_**.
+- **_Quick Sort._**
+
+<h2> 📊 Functionality </h2>
+
+⏳ **_Processing Speed Control_**
+<br>
+📏 **_Array Size Control_**
