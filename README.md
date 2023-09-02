@@ -39,4 +39,10 @@ Technologies used in the project:
 
 - **_HTML_**
 - **_CSS_**
-- **JAVASCRIPT_**
+- **_JAVASCRIPT_**
+
+<h2>Project Screenshots </h2>
+
+<img  width="800" height="400" alt="SortingAlgoVisualizer" src="https://github.com/Krushi24112002/SORTING-ALGO-VISUALIZER/assets/84612397/2db5a0c4-6318-4384-a446-c2048c66ff64">
+
+
